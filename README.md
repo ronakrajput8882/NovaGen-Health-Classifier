@@ -142,12 +142,11 @@ VotingClassifier(estimators=[("lr", ...), ("knn", ...), ("rf", ...)], voting="so
 ## 🗂️ Repository Structure
 
 ```
-novagen-health-classifier/
+NovaGen-Health-Classifier/
 │
-├── NovaGen.ipynb              # Main notebook — EDA, training, evaluation
-├── novagen_dataset.csv        # Dataset (9,800 health records, 22 features)
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
+├── NovaGen.ipynb              
+├── novagen_dataset.csv        
+└── README.md                            
 ```
 
 ---
@@ -156,8 +155,8 @@ novagen-health-classifier/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ronakrajput8882/novagen-health-classifier.git
-cd novagen-health-classifier
+git clone https://github.com/ronakrajput8882/NovaGen-Health-Classifier.git
+cd NovaGen-Health-Classifier
 
 # Install dependencies
 pip install numpy pandas scikit-learn jupyter
@@ -194,7 +193,7 @@ jupyter notebook NovaGen.ipynb
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaksinh-rajput8882)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakrajput8882)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techwithronak)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronakrajput8882)
 
