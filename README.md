@@ -164,7 +164,6 @@ pip install numpy pandas scikit-learn jupyter
 # Launch notebook
 jupyter notebook NovaGen.ipynb
 ```
-
 ---
 
 ## 🧠 Key Learnings
