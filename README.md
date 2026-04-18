@@ -1,4 +1,4 @@
-8<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🧬%20NovaGen%20Health%20Classifier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Binary%20Classification%20of%20Individual%20Health%20Risk%20for%20Biomedical%20Research&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🧬%20NovaGen%20Health%20Classifier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Binary%20Classification%20of%20Individual%20Health%20Risk%20for%20Biomedical%20Research&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
 
