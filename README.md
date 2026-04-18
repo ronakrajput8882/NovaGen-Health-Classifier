@@ -46,7 +46,9 @@
 
 ## 🔄 Pipeline Workflow
 
-
+```
+Raw CSV → EDA & Null Check → Feature Selection → Train-Test Split → StandardScaler → Model Training → Evaluation (Recall-First) → Best Model Selection
+```
 
 1️⃣ **Data Loading & EDA** — Loaded 9,800 records, verified zero missing values, explored distributions across all 22 features.
 
