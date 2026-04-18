@@ -11,6 +11,10 @@
 
 </div>
 
+```
+Raw CSV → EDA & Null Check → Feature Selection → Train-Test Split → StandardScaler → Model Training → Evaluation (Recall-First) → Best Model Selection
+```
+
 ---
 
 ## 📌 Project Overview
