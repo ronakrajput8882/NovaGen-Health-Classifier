@@ -10,9 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 </div>
-```
-Raw CSV → EDA & Null Check → Feature Selection → Train-Test Split → StandardScaler → Model Training → Evaluation (Recall-First) → Best Model Selection
-```
+
 ---
 
 ## 📌 Project Overview
