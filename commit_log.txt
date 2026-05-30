@@ -4,3 +4,4 @@
 [2026-05-30T15:05:00] commit #4: refactor: clean up model training script
 [2026-05-30T17:33:00] commit #5: docs: update README with usage instructions
 [2026-05-30T19:50:00] commit #6: chore: add requirements.txt and .gitignore
+[2026-05-30T09:10:00] commit #7: feat: add model evaluation metrics
