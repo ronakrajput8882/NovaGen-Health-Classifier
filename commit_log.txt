@@ -3,3 +3,4 @@
 [2026-05-30T13:20:00] commit #3: fix: resolve null handling in dataset loader
 [2026-05-30T15:05:00] commit #4: refactor: clean up model training script
 [2026-05-30T17:33:00] commit #5: docs: update README with usage instructions
+[2026-05-30T19:50:00] commit #6: chore: add requirements.txt and .gitignore
