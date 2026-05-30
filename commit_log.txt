@@ -8,3 +8,4 @@
 [2026-05-30T10:45:00] commit #8: feat: implement cross-validation logic
 [2026-05-30T12:30:00] commit #9: fix: correct label encoding for categorical vars
 [2026-05-30T14:15:00] commit #10: refactor: modularise training and inference code
+[2026-05-30T15:55:00] commit #11: test: add unit tests for data pipeline
